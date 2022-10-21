@@ -15,13 +15,6 @@ To connect with me, checkout these resources:
 - LinkedIn: [https://www.linkedin.com/in/shuang-yan-b89a3617a/](https://www.linkedin.com/in/shuang-yan-b89a3617a/)
 - Email: shuangy522@gmail.com
 
-Languages
-
-C C++ CSS3 HTML5 Java JavaScript LaTeX Markdown Python R Shell Script TypeScript
-
-Technologies
-
-GitHub Actions Firebase MongoDB Adobe Photoshop Bootstrap Express.js Gatsby jQuery JWT NPM NodeJS React Vue.js Cloudflare PyTorch Nginx Apache
 
 <!--
 **yanlong22222/yanlong22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
