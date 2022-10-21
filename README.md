@@ -1,7 +1,6 @@
 ### Hey, I’m Shuang!  👋
-
-
-
+<br/>
+<br/>
 
 - An XR Developer, creative designer, interdisciplinary artist, and programmer.
 
@@ -9,7 +8,8 @@
 
 - I have a Graduate Certification in New Media and a Master's Degree in Architecture from the University of California, Berkeley where I completed an inclusive and diverse curriculum including computer science, interaction design, and VR/AR. My experience is a mixture of immersive tech, human-computer interaction, visual design, and programming.
 
-
+<br/>
+<br/>
 
 To connect with me, checkout these resources:
 
