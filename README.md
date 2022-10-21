@@ -1,7 +1,7 @@
 ### Hey, I’m Shuang!  👋
 <br/>
 
-- An XR Developer, creative designer, interdisciplinary artist, and programmer.
+An XR Developer, creative designer, interdisciplinary artist, and programmer.
 
 - Currently, I am an Interactive Developer based in San Francisco Bay Area. Previously, I worked in UC Berkeley XR Lab on several projects - Virtual Bauer Wurster, BAMFA Augmented Time, Gear Adventure, and In-between, which were featured by The Daily Californian, The Plan, Bampfa, Berkeley Circus, Archinect, and Berkeley news.
 
@@ -14,6 +14,14 @@ To connect with me, checkout these resources:
 - Website: [https://www.shuang-yan.net/](https://www.shuang-yan.net/)
 - LinkedIn: [https://www.linkedin.com/in/shuang-yan-b89a3617a/](https://www.linkedin.com/in/shuang-yan-b89a3617a/)
 - Email: shuangy522@gmail.com
+
+Languages
+
+C C++ CSS3 HTML5 Java JavaScript LaTeX Markdown Python R Shell Script TypeScript
+
+Technologies
+
+GitHub Actions Firebase MongoDB Adobe Photoshop Bootstrap Express.js Gatsby jQuery JWT NPM NodeJS React Vue.js Cloudflare PyTorch Nginx Apache
 
 <!--
 **yanlong22222/yanlong22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
