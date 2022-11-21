@@ -13,8 +13,9 @@ To connect with me, checkout these resources:
 
 - Website: [https://www.shuang-yan.net/](https://www.shuang-yan.net/)
 - LinkedIn: [https://www.linkedin.com/in/shuang-y/](https://www.linkedin.com/in/shuang-y/)
-- Resume: [Click Here](https://static1.squarespace.com/static/5ee7fe217274953bf4e51c47/t/637afff2f70bf35e38eeafc6/1669005298144/Shuang+Yan_Resume.pdf)
 - Email: shuangy522@gmail.com
+- Resume: [Click Here](https://static1.squarespace.com/static/5ee7fe217274953bf4e51c47/t/637afff2f70bf35e38eeafc6/1669005298144/Shuang+Yan_Resume.pdf)
+
 
 
 <!--
